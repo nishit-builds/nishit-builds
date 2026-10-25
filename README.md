@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nishit Shah 👋
 
-<!--
-**nishit-builds/nishit-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 FYBScIT Student | 💻 Beginner C++ Programmer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm learning programming and software development by building projects and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C and C++
+- Basic programming concepts
+- Problem-solving
+- Git and GitHub basics
+
+## 📂 My Projects
+
+### 1. C++ Beginner Projects
+
+A collection of beginner-friendly C++ programs created to practise programming fundamentals.
+
+**Features:**
+- Prime number checking
+- Factorial calculation
+- Number reversal
+- Menu-driven program
+
+🔗 **[View My C++ Project](https://github.com/nishit-builds/cpp-beginner-projects)**
+
+## 🎯 My Goals
+- Improve my C++ programming skills.
+- Learn new programming concepts.
+- Build practical projects.
+- Explore software development and freelance opportunities.
+
+## 🌐 Connect with Me
+
+🔗 **[GitHub Profile](https://github.com/nishit-builds)**
+
+Thanks for visiting my profile! ⭐
